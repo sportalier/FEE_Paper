@@ -1,0 +1,108 @@
+---
+title: "Model Fit"
+#output: pdf_document
+output: latex_fragment
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(lme4)
+```
+
+# Goodness of fit
+
+Body mass is divided into size classes that are the log10(mass).
+
+## Speed
+
+```{r, echo=FALSE}
+setwd("~/Master_Uottawa/Functional_Response/Manuscript/FEE_Paper/Manuscript/Review/Fitting")
+speed = read.csv('Speed.csv',colClasses = c('numeric','numeric','numeric','factor'))
+
+speed5 = which(speed$LogSize==5)
+speed$LogSize[speed5] = 4
+speed = droplevels(speed)
+
+speed$log10pred_log10obs = log10(speed$Predicted) - log10(speed$Observed)
+
+mod1 = lm(log10pred_log10obs~log10(Predicted)*LogSize,data=speed)
+summary(mod1)
+
+```
+The slope does not significantly differ from 1 and the intercept from 0.
+The model does not show any significant effect of size.
+
+## Attack rate
+### Linear model of oberved versus predicted data (with size as cofactor)
+```{r, echo=F}
+dat = read.csv('DataFitting.csv',colClasses = c('numeric','numeric','numeric','factor','factor','factor'))
+capture = subset(dat,dat$Trait=='Probability')
+capture = droplevels(capture)
+attack = subset(dat,dat$Trait=='Attack')
+attack = droplevels(attack)
+toto = which(attack$Predicted==0)
+attack = attack[-toto,]
+handling = subset(dat,dat$Trait=='Handling')
+handling = droplevels(handling)
+
+attack$log10pred_log10obs = log10(attack$Predicted) - log10(attack$Observed)
+handling$log10pred_log10obs = log10(handling$Predicted) - log10(handling$Observed)
+capture$pred_obs = capture$Predicted - capture$Observed
+
+mod22 = lm(log10pred_log10obs~log10(Predicted)*LogSize,data=attack)
+summary(mod22)
+
+```
+The slope does not significantly differ from 1 and the intercept from 0.
+The model does not show any significant effect of size, except for 10e-5 kg size range (i.e., 10 mg).
+
+### Linear mixed model of oberved versus predicted data (with size as cofactor, and study as random effect)
+```{r, echo=F}
+mod2 = lmer(log10pred_log10obs~log10(Predicted)*LogSize+(1|Study),data=attack)
+summary(mod2)
+
+```
+The source of data (study) does not have a significant effect.
+
+## Capture probability
+```{r,echo=F}
+mod5 = lm(pred_obs~ Predicted,data=capture)
+summary(mod5)
+
+```
+The slope does not significantly differ from 1 and the intercept from 0.
+Size was not included as a cofactor, since size range in the dataset is narrow and unbalanced.
+
+## Handling time
+### Linear model of oberved versus predicted data (with size as cofactor)
+```{r,echo=F}
+mod3 = lm(log10pred_log10obs~log10(Predicted)*LogSize,data=handling)
+summary(mod3)
+
+```
+The slope and the intercept significantly differ from 1 and 0 respectively.
+Almost all size ranges show a significant effect.
+
+### Linear mixed model of oberved versus predicted data (with size as cofactor, and study as random effect)
+```{r,echo=F}
+mod33 = lmer(log10pred_log10obs~log10(Predicted)*LogSize+(1|Study),data=handling)
+summary(mod33)
+
+```
+The source of data (study) does not have a significant effect.
+
+## Plots
+```{r, echo=F}
+par(mar=c(5,5,4,1))
+plot(log10(speed$Observed)~log10(speed$Predicted),xlab='Predicted',ylab='Observed',main = 'Speed',cex.lab=1.5,
+     ylim = c(-1.2,1.6),xlim = c(-1.2,1.6))
+abline(a = 0, b = 1,lwd=3)
+plot(log10(attack$Observed)~log10(attack$Predicted),xlab='Predicted',ylab='Observed',main = 'Attack rate',cex.lab=1.5,
+     xlim = c(-12.5,-3), ylim = c(-12.5,-3))
+abline(a = 0, b = 1,lwd=3)
+plot(capture$Observed~capture$Predicted,xlab='Predicted',ylab='Observed',main = 'Capture probability',cex.lab=1.5,
+     xlim = c(0,1))
+abline(a = 0, b = 1,lwd=3)
+plot(log10(handling$Observed)~log10(handling$Predicted),xlab='Predicted',ylab='Observed',main = 'Handling time',cex.lab=1.5,xlim = c(-5,7), ylim = c(-5,7))
+abline(a = 0, b = 1,lwd=3)
+```

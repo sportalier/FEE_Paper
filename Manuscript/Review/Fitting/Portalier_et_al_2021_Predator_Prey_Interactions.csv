@@ -1,0 +1,483 @@
+habitat,predator.species,predator.mass.kg,prey.species,prey.mass.kg,predation.trait,trait.value,trait.unit,references,meta.analysis
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,attack.rate,4.78913360295452e-07,m3.s-1,Anderson_et_al.1978,Li_et_al.2018
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,attack.rate,4.87114164256902e-07,m3.s-1,Anderson_et_al.1978,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,attack.rate,3e-08,m3.s-1,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,attack.rate,4.99999379000016e-08,m3.s-1,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,attack.rate,8.00000437760331e-08,m3.s-1,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,attack.rate,1.10000028116029e-07,m3.s-1,Bailey.1989,Li_et_al.2018
+marine,Salvelinus namaycush,0.004025,Daphnia pullicaria,1.71891e-07,attack.rate,2.51985358802816e-07,m3.s-1,Barnhinsel_and_Kerfoot.2004,Li_et_al.2018
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,attack.rate,3.77778648179338e-07,m3.s-1,Bergstrom_and_Englund.2004,Li_et_al.2018
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,attack.rate,1.72222206722225e-07,m3.s-1,Bergstrom_and_Englund.2004,Li_et_al.2018
+marine,Pomatomus saltatrix,0.140407,Menidia menidia,0.0100867,attack.rate,0.000196087485968028,m3.s-1,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.0259642,Menidia menidia,0.00200239,attack.rate,0.000411334040421896,m3.s-1,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.136734,Morone saxatilis,0.0103546,attack.rate,0.000403310264821186,m3.s-1,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.0299838,Morone saxatilis,0.00177724,attack.rate,0.000352473013183491,m3.s-1,Buckel_and_Stoner.2000,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,attack.rate,1.97917377385628e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,6.20368831456628e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,4.76851507603078e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,attack.rate,1.11111141319123e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,2.11805733091007e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,attack.rate,1.85185286162973e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,attack.rate,2.78935106246573e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,attack.rate,2.18170622792967e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,4.54861232286148e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,6.37730696689539e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,attack.rate,8.71528965740441e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,attack.rate,9.28238370392042e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,attack.rate,2.70832058229481e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,attack.rate,4.28241758241758e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,attack.rate,9.31713478518211e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,attack.rate,6.00695637714096e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,attack.rate,3.65739582514302e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,attack.rate,4.31712004855556e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,attack.rate,3.48379432349371e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,attack.rate,5.28936205605922e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,attack.rate,3.47106993866679e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,attack.rate,5.40510437202417e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,attack.rate,6.00695326097009e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,attack.rate,9.83795491063294e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,attack.rate,8.73844696809545e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,6.40621e-08,attack.rate,7.6967909834849e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,attack.rate,1.92360877231214e-08,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,attack.rate,6.38888106887679e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,attack.rate,1.55902784378082e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,attack.rate,3.3796402889903e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,attack.rate,2.45370431312505e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,attack.rate,9.17821622384959e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,attack.rate,5.90275201218939e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,attack.rate,8.72683925727344e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,attack.rate,6.50463464547972e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,attack.rate,5.59026497158321e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,attack.rate,1.6550942864158e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,attack.rate,8.56481490423151e-10,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,attack.rate,1.97800819595983e-08,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,1.29858e-07,attack.rate,2.36111293657333e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,attack.rate,8.02083656733298e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,attack.rate,7.48843971213638e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,1.29858e-07,attack.rate,2.66204096902046e-09,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,attack.rate,1.74537224699365e-08,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,attack.rate,1.84953402237062e-08,m3.s-1,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Enallagma aspersum,3.7909e-05,Diaptomus spatulocrenatus,1.5e-08,attack.rate,3.34578373917787e-08,m3.s-1,Colton.1987,Li_et_al.2018
+freshwater,Enallagma aspersum,3.7909e-05,Simocephalus serrulatus,2.025e-08,attack.rate,7.95206636207192e-08,m3.s-1,Colton.1987,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Daphnia magna,1.71227e-07,attack.rate,8.88887879111467e-09,m3.s-1,Cothran_and_Thorp.1985,Li_et_al.2018
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,attack.rate,1.87405871605374e-11,m3.s-1,DeBlois_and_Leggett.1991,Li_et_al.2018
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,attack.rate,2.77107613411657e-11,m3.s-1,DeBlois_and_Leggett.1991,Li_et_al.2018
+marine,Calliopius laeviusculus,3.3778e-06,Mallotus vilosus,8e-08,attack.rate,8.75637486301947e-12,m3.s-1,DeBlois_and_Leggett.1991,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,attack.rate,2.13889136786111e-06,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,attack.rate,1.0833345033345e-06,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,attack.rate,1.72222096844474e-06,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,attack.rate,8.61113474007656e-07,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,attack.rate,4.44443859556772e-07,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,attack.rate,8.33331093340501e-07,m3.s-1,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Chironomidae,7.05622e-05,attack.rate,0.000817197652677761,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0019364,Chironomidae,7.05622e-05,attack.rate,0.000977400001317144,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Chironomidae,7.05622e-05,attack.rate,0.00028080034880632,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Chironomidae,7.05622e-05,attack.rate,0.000203399978439161,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Chironomidae,7.05622e-05,attack.rate,0.000273601004749009,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Chironomidae,7.05622e-05,attack.rate,0.000205199755119774,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Chironomidae,7.05622e-05,attack.rate,6.49801016750847e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Chironomidae,7.05622e-05,attack.rate,0.000201599485025902,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Chironomidae,7.05622e-05,attack.rate,0.000196199926306113,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Chironomidae,7.05622e-05,attack.rate,8.76600008103638e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Lepomis macrochirus,2.64848e-05,attack.rate,0.000117300345365078,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Daphnia spp.,1.13308e-07,attack.rate,1.06589857269065e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0019364,Daphnia spp.,1.13308e-07,attack.rate,4.2330014135822e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Daphnia spp.,1.13308e-07,attack.rate,4.43700790201782e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Daphnia spp.,1.13308e-07,attack.rate,7.80300387733663e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Daphnia spp.,1.13308e-07,attack.rate,1.8309003479955e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Daphnia spp.,1.13308e-07,attack.rate,1.55040023623622e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Daphnia spp.,1.13308e-07,attack.rate,2.27460200197002e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Daphnia spp.,1.13308e-07,attack.rate,7.34400702747026e-06,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Daphnia spp.,1.13308e-07,attack.rate,1.57590186012649e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Daphnia spp.,1.13308e-07,attack.rate,5.1000086893915e-07,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Lepomis macrochirus,0.000152969,attack.rate,4.24320145123131e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Lepomis macrochirus,0.00026902,attack.rate,0.000698702513852585,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Lepomis macrochirus,0.000426691,attack.rate,6.9870180859145e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Lepomis macrochirus,0.000630215,attack.rate,7.49699392202677e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Lepomis macrochirus,0.000883504,attack.rate,5.71202323902055e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Lepomis macrochirus,0.00119021,attack.rate,6.22200355990927e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Lepomis macrochirus,0.00155378,attack.rate,8.05799449953782e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Lepomis macrochirus,0.00433413,attack.rate,2.21849774726667e-05,m3.s-1,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,attack.rate,7.777779395556e-09,m3.s-1,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,attack.rate,5.27777245777667e-09,m3.s-1,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,attack.rate,1.38888780000196e-09,m3.s-1,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,attack.rate,5.0000072900006e-09,m3.s-1,Gresens_et_al.1982,Li_et_al.2018
+marine,Achirus lineatus,4e-08,Different copepods,6e-10,attack.rate,2.77778e-10,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,4e-07,Different copepods,1.16e-09,attack.rate,6.66664482674704e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,2e-07,Different copepods,1.16e-09,attack.rate,3.61111501111501e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,8e-07,Different copepods,1.16e-09,attack.rate,1.11111096444449e-08,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,6e-08,Different copepods,6e-10,attack.rate,5.55556177777529e-10,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,8e-08,Different copepods,6e-10,attack.rate,1.11111795557746e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,8e-07,Different copepods,1.16e-09,attack.rate,2.49999662500118e-08,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,2e-07,Different copepods,6e-10,attack.rate,7.49997975003442e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,8e-08,Different copepods,6e-10,attack.rate,2.2222314666711e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,6e-08,Different copepods,6e-10,attack.rate,1.3888896e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,4e-07,Different copepods,1.16e-09,attack.rate,1.44444629333422e-08,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,4e-08,Different copepods,6e-10,attack.rate,5.55556155556156e-10,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,8e-07,Different copepods,1.16e-09,attack.rate,8.61111171388953e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,4e-08,Different copepods,6e-10,attack.rate,2.77777650000115e-10,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,6e-08,Different copepods,6e-10,attack.rate,1.11111188444531e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,4e-07,Different copepods,1.16e-09,attack.rate,6.9444623611559e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,2e-07,Different copepods,6e-10,attack.rate,4.44445191112306e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,8e-08,Different copepods,6e-10,attack.rate,1.66666558666675e-09,m3.s-1,Houde_and_Schekter.1980,Li_et_al.2018
+freshwater,Oncorhynchus nerka,0.00541,Daphnia spp.,1.11862e-07,attack.rate,6.43333742493266e-05,m3.s-1,Koski_and_Johnson.2002,Li_et_al.2018
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,attack.rate,0.000219999918687949,m3.s-1,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,attack.rate,8.00000887201235e-05,m3.s-1,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,attack.rate,5.99997953405874e-05,m3.s-1,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,attack.rate,6.99998462803692e-05,m3.s-1,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.07698e-06,attack.rate,2.69386210402248e-09,m3.s-1,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.98902e-05,attack.rate,3.03819566534285e-10,m3.s-1,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,1.22189e-07,attack.rate,8.1018711018711e-10,m3.s-1,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,3.75082e-07,attack.rate,1.23553396640445e-09,m3.s-1,McKee_et_al.1997,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.000694201,Artemia spp. nauplii,7.2011e-07,attack.rate,2.79999611359949e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.0019364,Artemia spp. nauplii,7.2011e-07,attack.rate,2.09999149920721e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.00400951,Artemia spp. nauplii,7.2011e-07,attack.rate,5.39998781762992e-05,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.000120193,Artemia spp. nauplii,7.2011e-07,attack.rate,2.85000132513516e-08,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000694201,Artemia spp. nauplii,7.2011e-07,attack.rate,1.50000478500952e-05,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.0019364,Artemia spp. nauplii,7.2011e-07,attack.rate,2.4e-05,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.00400951,Artemia spp. nauplii,7.2011e-07,attack.rate,6.29999966547017e-05,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000120193,Artemia spp. nauplii,7.2011e-07,attack.rate,2.39999715816247e-07,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000335266,Artemia spp. nauplii,7.2011e-07,attack.rate,3.90000351175598e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000694201,Artemia spp. nauplii,7.2011e-07,attack.rate,1.10000164010094e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.0019364,Artemia spp. nauplii,7.2011e-07,attack.rate,1.90000056620012e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.00400951,Artemia spp. nauplii,7.2011e-07,attack.rate,1.39999658399945e-05,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000120193,Artemia spp. nauplii,7.2011e-07,attack.rate,3.6000069491496e-08,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000335266,Artemia spp. nauplii,7.2011e-07,attack.rate,1.39999605759849e-06,m3.s-1,Miller_et_al.1992,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.0449752,Musca domestica,7.34494e-07,attack.rate,1.38513513513514e-05,m3.s-1,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus keta,0.0469708,Americamysis bahia,7.34494e-07,attack.rate,2.33740243902439e-05,m3.s-1,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.0434592,Tisbi sp.,2.29882e-10,attack.rate,7.84314117647059e-07,m3.s-1,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.00380972,Tisbi sp.,2.69563e-10,attack.rate,1.9858170212766e-06,m3.s-1,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus keta,0.0485592,Tisbi sp.,2.29882e-10,attack.rate,3.2646030927835e-06,m3.s-1,Moss_and_Beauchamp.2007,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,attack.rate,2.04902658140511e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,attack.rate,5.51827800865454e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,attack.rate,3.45203158440885e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.22189e-07,attack.rate,2.79433080540299e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,2.50945e-08,attack.rate,1.9951332394971e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,attack.rate,3.47754564895542e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,attack.rate,7.20190779014308e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,4.89795e-08,attack.rate,4.64844683053334e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,attack.rate,3.14598169637697e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,attack.rate,1.73939350843283e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,attack.rate,2.73778150093582e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,8.12754e-08,attack.rate,2.73039233958764e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.89795e-08,attack.rate,1.0114828937242e-08,m3.s-1,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,attack.rate,5.38370330856055e-09,m3.s-1,Spitze.1985,Li_et_al.2018
+marine,Crangon septemspinosa,0.00440791,Pseudopleuronectes americanus,0.000335266,attack.rate,0.000216667082667732,m3.s-1,Taylor_and_Collie.2003,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,3.83276e-07,attack.rate,1.56423488737026e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,8.62286e-08,attack.rate,1.54079683056967e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,4.89795e-08,attack.rate,7.89930599989148e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,3.83276e-07,attack.rate,7.04860420276591e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,8.62286e-08,attack.rate,7.1267221562824e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.22189e-07,attack.rate,7.43056408881541e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,8.62286e-08,attack.rate,1.68749394019142e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,2.30525e-07,attack.rate,1.85764284767334e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,4.89795e-08,attack.rate,1.49478977987086e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,8.62286e-08,attack.rate,1.80381988412551e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,1.22189e-07,attack.rate,4.2621538857889e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,2.30525e-07,attack.rate,1.33941400405872e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,3.83276e-07,attack.rate,4.68750202499984e-11,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,4.89795e-08,attack.rate,1.85069678076286e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,4.89795e-08,attack.rate,1.6180536294255e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,1.22189e-07,attack.rate,1.92013712620269e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,2.30525e-07,attack.rate,6.81426073440839e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,8.62286e-08,attack.rate,5.57288662923054e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,1.22189e-07,attack.rate,9.83506967812565e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,2.30525e-07,attack.rate,4.26216119435875e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,1.22189e-07,attack.rate,3.17707732866026e-10,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,4.89795e-08,attack.rate,1.30121973389198e-09,m3.s-1,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,4.4410630332803e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,4.0267341084284e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,1.07829975349889e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,1.96475503228257e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,3.00539031727817e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,attack.rate,1.20356155007802e-09,m3.s-1,Thompson.1978,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Cyclops vernalis,4.0095e-08,attack.rate,1.64435024506557e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.0095e-08,attack.rate,2.63875223613596e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,attack.rate,2.02529814567306e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,4.0095e-08,attack.rate,2.95117469879518e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,9.39467e-08,attack.rate,3.07181203525664e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,1.71891e-07,attack.rate,2.48574318164202e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus birgei,4.0095e-08,attack.rate,2.28780309617274e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus leptopus,1.71891e-07,attack.rate,1.94460721357093e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,4.0095e-08,attack.rate,7.28286578657866e-10,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,1.71891e-07,attack.rate,3.7986151549591e-10,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Moina hutchinsoni,4.0095e-08,attack.rate,4.00644987600768e-09,m3.s-1,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,handling.time,94.1112541313754,s,Anderson_et_al.1978,Li_et_al.2018
+freshwater,Brachydanio rerio,0.00122086,Daphnia magna,1.29858e-07,handling.time,170.006562240382,s,Anderson_et_al.1978,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,handling.time,710.115906581111,s,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,handling.time,195.992032550708,s,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,handling.time,215.875064627436,s,Bailey.1989,Li_et_al.2018
+freshwater,Ranatra dispar,0.00150553,Anisops deanei,1.2674e-05,handling.time,201.672873907651,s,Bailey.1989,Li_et_al.2018
+marine,Salvelinus namaycush,0.004025,Daphnia pullicaria,1.71891e-07,handling.time,5534.12692632659,s,Barnhinsel_and_Kerfoot.2004,Li_et_al.2018
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,handling.time,9114.83279054574,s,Bergstrom_and_Englund.2004,Li_et_al.2018
+marine,Neomysis integer,9.1871e-06,Polyphemus pediculus,1.89581e-08,handling.time,8545.15943264362,s,Bergstrom_and_Englund.2004,Li_et_al.2018
+marine,Pomatomus saltatrix,0.140407,Menidia menidia,0.0100867,handling.time,0.0546779685736822,s,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.0259642,Menidia menidia,0.00200239,handling.time,0.447125320667795,s,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.136734,Morone saxatilis,0.0103546,handling.time,0.159650720796961,s,Buckel_and_Stoner.2000,Li_et_al.2018
+marine,Pomatomus saltatrix,0.0299838,Morone saxatilis,0.00177724,handling.time,0.301208864766194,s,Buckel_and_Stoner.2000,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,handling.time,1826409.87769948,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Ceriodaphnia dubia,3.775e-09,handling.time,1478529.07795415,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,handling.time,645425.415058562,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,handling.time,3240858.72450269,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,handling.time,1453350.06090808,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,handling.time,1950007.08340073,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,handling.time,1295427.44231551,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Ceriodaphnia dubia,3.775e-09,handling.time,1611278.69304674,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,handling.time,677467.577417946,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,handling.time,480636.096881145,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Ceriodaphnia dubia,3.775e-09,handling.time,1405286.18776176,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,handling.time,267096.116752,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,handling.time,2357015.85792962,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,handling.time,2108651.36705627,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,handling.time,1775958.62556521,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,handling.time,417044.878734728,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,handling.time,1766587.23961123,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,handling.time,529506.693563908,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,handling.time,670083.309746776,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,handling.time,1705662.00871028,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Chydorus sphaericus,3.68766e-09,handling.time,2624101.74622415,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Chydorus sphaericus,3.68766e-09,handling.time,1785324.1762501,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Chydorus sphaericus,3.68766e-09,handling.time,379557.777328827,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,handling.time,584630.494280059,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,handling.time,134397.691225715,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,6.40621e-08,handling.time,100342.321355333,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,handling.time,71518.7615155068,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,handling.time,244796.598448332,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,handling.time,376313.972413583,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,handling.time,199196.216645254,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,3.60006e-08,handling.time,392153.279589833,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,handling.time,42315.8292972804,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,handling.time,38072.6792858115,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,1.29858e-07,handling.time,43646.4584330554,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,handling.time,186830.188909166,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,handling.time,36110.1076458251,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,handling.time,407993.132223274,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,3.60006e-08,handling.time,626389.7211311,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,handling.time,72478.8839117612,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,6.76984e-08,Daphnia carinata,1.29858e-07,handling.time,164871.856159052,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,handling.time,25120.0314765851,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,2.20127e-07,handling.time,27475.034427515,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,1.95856e-07,Daphnia carinata,1.29858e-07,handling.time,146242.197134636,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,handling.time,67198.8456128574,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Piona exigua,3.82959e-07,Daphnia carinata,3.60006e-08,handling.time,69358.8426653817,s,Butler_and_Burns.1993,Li_et_al.2018
+freshwater,Enallagma aspersum,3.7909e-05,Diaptomus spatulocrenatus,1.5e-08,handling.time,139345.535821905,s,Colton.1987,Li_et_al.2018
+freshwater,Enallagma aspersum,3.7909e-05,Simocephalus serrulatus,2.025e-08,handling.time,76498.3053712903,s,Colton.1987,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Daphnia magna,1.71227e-07,handling.time,1492.75640168056,s,Cothran_and_Thorp.1985,Li_et_al.2018
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,handling.time,20277.3618665555,s,DeBlois_and_Leggett.1991,Li_et_al.2018
+marine,Calliopius laeviusculus,3.91057e-06,Mallotus vilosus,8e-08,handling.time,32673.5882395993,s,DeBlois_and_Leggett.1991,Li_et_al.2018
+marine,Calliopius laeviusculus,3.3778e-06,Mallotus vilosus,8e-08,handling.time,75209.2320836567,s,DeBlois_and_Leggett.1991,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,handling.time,759.999118401023,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,handling.time,719.999942400004,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,handling.time,1120.00055552028,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,handling.time,1120.00055552028,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,1.7e-05,Culex quinquefasciatus,9e-07,handling.time,1879.9985636811,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Notonecta hoffmanni,2.1e-05,Culex quinquefasciatus,9e-07,handling.time,1279.99934464034,s,Fox_and_Murdoch.1978,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Chironomidae,7.05622e-05,handling.time,6.42072740404041,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0019364,Chironomidae,7.05622e-05,handling.time,3.18300715428942,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Chironomidae,7.05622e-05,handling.time,1.457295605712,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Chironomidae,7.05622e-05,handling.time,0.577789028509366,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Chironomidae,7.05622e-05,handling.time,0.406591051414473,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Chironomidae,7.05622e-05,handling.time,0.340975433163118,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Chironomidae,7.05622e-05,handling.time,0.179699506158318,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Chironomidae,7.05622e-05,handling.time,0.43096754744638,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Chironomidae,7.05622e-05,handling.time,0.268840889721142,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Chironomidae,7.05622e-05,handling.time,0.297751378958745,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Lepomis macrochirus,2.64848e-05,handling.time,16.396559878855,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.000694201,Daphnia spp.,1.13308e-07,handling.time,335.546183776592,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0019364,Daphnia spp.,1.13308e-07,handling.time,241.377294897685,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Daphnia spp.,1.13308e-07,handling.time,141.472871953473,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Daphnia spp.,1.13308e-07,handling.time,114.025459771956,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Daphnia spp.,1.13308e-07,handling.time,82.9597038161505,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Daphnia spp.,1.13308e-07,handling.time,90.3730959607679,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Daphnia spp.,1.13308e-07,handling.time,129.117096633689,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Daphnia spp.,1.13308e-07,handling.time,200.691799757899,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Daphnia spp.,1.13308e-07,handling.time,130.264368797275,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Daphnia spp.,1.13308e-07,handling.time,10740.6320500157,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00400951,Lepomis macrochirus,0.000152969,handling.time,0.841804977449492,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.00705137,Lepomis macrochirus,0.00026902,handling.time,2.2834300310388,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0111841,Lepomis macrochirus,0.000426691,handling.time,0.954295578994964,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0165187,Lepomis macrochirus,0.000630215,handling.time,0.535785219257087,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0231578,Lepomis macrochirus,0.000883504,handling.time,0.0813010378273122,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.031197,Lepomis macrochirus,0.00119021,handling.time,0.164853267486597,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.0407267,Lepomis macrochirus,0.00155378,handling.time,0.182291175894198,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Sander vitreus,0.113603,Lepomis macrochirus,0.00433413,handling.time,0.0516620419992829,s,Galarowicz_and_Wahl.2005,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,handling.time,3.84609877777072,s,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,handling.time,5.32537367328263,s,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,handling.time,7.24840909905479,s,Gresens_et_al.1982,Li_et_al.2018
+freshwater,Celithemis fasciata,0.000236209,Chironomus tentans,4.86727e-05,handling.time,5.99102985367469,s,Gresens_et_al.1982,Li_et_al.2018
+marine,Achirus lineatus,4e-08,Different copepods,6e-10,handling.time,299999.760000192,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,4e-07,Different copepods,1.16e-09,handling.time,121034.433860709,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,2e-07,Different copepods,1.16e-09,handling.time,139655.16124138,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,8e-07,Different copepods,1.16e-09,handling.time,102413.773849659,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,6e-08,Different copepods,6e-10,handling.time,83999.8723201941,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Achirus lineatus,8e-08,Different copepods,6e-10,handling.time,131999.609281157,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,8e-07,Different copepods,1.16e-09,handling.time,46551.7706897017,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,2e-07,Different copepods,6e-10,handling.time,90000.09000009,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,8e-08,Different copepods,6e-10,handling.time,155999.425922113,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,6e-08,Different copepods,6e-10,handling.time,191999.90169605,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,4e-07,Different copepods,1.16e-09,handling.time,62068.9158621087,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Anchoa mitchilli,4e-08,Different copepods,6e-10,handling.time,269999.978400002,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,8e-07,Different copepods,1.16e-09,handling.time,21724.1596551941,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,4e-08,Different copepods,6e-10,handling.time,137999.939280027,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,6e-08,Different copepods,6e-10,handling.time,348000.147552063,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,4e-07,Different copepods,1.16e-09,handling.time,93103.4408275868,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,2e-07,Different copepods,6e-10,handling.time,179999.985600001,s,Houde_and_Schekter.1980,Li_et_al.2018
+marine,Archosargus rhomboidalis,8e-08,Different copepods,6e-10,handling.time,324000.184032105,s,Houde_and_Schekter.1980,Li_et_al.2018
+freshwater,Oncorhynchus nerka,0.00541,Daphnia spp.,1.11862e-07,handling.time,3.21824848474219,s,Koski_and_Johnson.2002,Li_et_al.2018
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,handling.time,3.55384970769586,s,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Perca ﬂuviatilis,0.00856713,Neomysis integer,2.6e-05,handling.time,4.2653858224888,s,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,handling.time,4.37307928891282,s,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Sander lucioperca,0.00982296,Neomysis integer,2.6e-05,handling.time,4.22307605312326,s,Ljunggren_and_Sandstrom.2007,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.07698e-06,handling.time,4813.46571315314,s,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Aedes aegypti,1.98902e-05,handling.time,2041.60756137407,s,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,1.22189e-07,handling.time,77781.0353019829,s,McKee_et_al.1997,Li_et_al.2018
+freshwater,Dugesia tigrina,2.5e-06,Daphnia magna,3.75082e-07,handling.time,82925.8817374275,s,McKee_et_al.1997,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.000694201,Artemia spp. nauplii,7.2011e-07,handling.time,4.81871557735348,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.0019364,Artemia spp. nauplii,7.2011e-07,handling.time,1.22203943287694,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.00400951,Artemia spp. nauplii,7.2011e-07,handling.time,1.30535586507622,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Alosa pseudoharengus,0.000120193,Artemia spp. nauplii,7.2011e-07,handling.time,80.7098030864032,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000694201,Artemia spp. nauplii,7.2011e-07,handling.time,4.42987345267333,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.0019364,Artemia spp. nauplii,7.2011e-07,handling.time,1.93026188998982,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.00400951,Artemia spp. nauplii,7.2011e-07,handling.time,0.737387019149995,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000120193,Artemia spp. nauplii,7.2011e-07,handling.time,164.433263504255,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Coregonus hoyi,0.000335266,Artemia spp. nauplii,7.2011e-07,handling.time,54.3666602699797,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000694201,Artemia spp. nauplii,7.2011e-07,handling.time,2.95787871353238,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.0019364,Artemia spp. nauplii,7.2011e-07,handling.time,2.06912814139508,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.00400951,Artemia spp. nauplii,7.2011e-07,handling.time,0.847095007712882,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000120193,Artemia spp. nauplii,7.2011e-07,handling.time,74.4606767870989,s,Miller_et_al.1992,Li_et_al.2018
+freshwater,Perca flavescens,0.000335266,Artemia spp. nauplii,7.2011e-07,handling.time,12.2203943287694,s,Miller_et_al.1992,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.0449752,Musca domestica,7.34494e-07,handling.time,6.64137321814447,s,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus keta,0.0469708,Americamysis bahia,7.34494e-07,handling.time,7.1033694361555,s,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.0434592,Tisbi sp.,2.29882e-10,handling.time,652508.352111246,s,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus gorbuscha,0.00380972,Tisbi sp.,2.69563e-10,handling.time,79493.6846765317,s,Moss_and_Beauchamp.2007,Li_et_al.2018
+marine,Oncorhynchus keta,0.0485592,Tisbi sp.,2.29882e-10,handling.time,68685.1601885498,s,Moss_and_Beauchamp.2007,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,handling.time,213559.124996533,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,handling.time,41279.6686218065,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,handling.time,93583.7614544567,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.22189e-07,handling.time,214189.250640925,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,2.50945e-08,handling.time,158832.035488579,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,handling.time,97002.8850217812,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,handling.time,97002.8850217812,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,4.89795e-08,handling.time,249789.931522881,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,8.12754e-08,handling.time,196553.967330525,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,handling.time,216211.283550957,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,handling.time,54924.192916844,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,2.82214e-05,Daphnia pulex,8.12754e-08,handling.time,494043.058100686,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.89795e-08,handling.time,176528.05232704,s,Spitze.1985,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,2.50945e-08,handling.time,179475.793506024,s,Spitze.1985,Li_et_al.2018
+marine,Crangon septemspinosa,0.00440791,Pseudopleuronectes americanus,0.000335266,handling.time,8.59019955259758,s,Taylor_and_Collie.2003,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,3.83276e-07,handling.time,38547.7033279483,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,8.62286e-08,handling.time,48095.320387426,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,4.89795e-08,handling.time,264600.474957892,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,3.83276e-07,handling.time,66951.3106441343,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,8.62286e-08,handling.time,122242.452200748,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.22189e-07,handling.time,41011.8753085112,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,8.62286e-08,handling.time,95189.1154955912,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,2.30525e-07,handling.time,88451.9878232827,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,4.89795e-08,handling.time,97020.0484132545,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,8.62286e-08,handling.time,25049.6914851918,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,1.22189e-07,handling.time,112429.134619439,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,2.30525e-07,handling.time,23986.9739457597,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,3.83276e-07,handling.time,90169.961868964,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,4.89795e-08,handling.time,28224.0384693915,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,4.89795e-08,handling.time,56448.0769387831,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,0.000150371,Daphnia magna,1.22189e-07,handling.time,25455.6511419504,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,2.30525e-07,handling.time,41227.5758486672,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,8.62286e-08,handling.time,197391.736038829,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,1.22189e-07,handling.time,93337.3488116126,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,5.03738e-05,Daphnia magna,2.30525e-07,handling.time,70087.0254860924,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,1.25965e-05,Daphnia magna,1.22189e-07,handling.time,197988.260921215,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,2.49285e-05,Daphnia magna,4.89795e-08,handling.time,135827.938687861,s,Thompson.1975,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,13296.8750747949,s,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,14393.7327522779,s,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,135412.119527693,s,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,24630.9825602397,s,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,11834.4257423489,s,Thompson.1978,Li_et_al.2018
+freshwater,Ischnura elegans,8.84079e-05,Daphnia magna,1.744e-07,handling.time,49858.2231566318,s,Thompson.1978,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Cyclops vernalis,4.0095e-08,handling.time,50230.3307799488,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,4.0095e-08,handling.time,45946.4055161746,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia pulex,1.71891e-07,handling.time,98694.2350513825,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,4.0095e-08,handling.time,63638.0389713776,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,9.39467e-08,handling.time,41747.5592557281,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Daphnia rosea,1.71891e-07,handling.time,43193.1356589053,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus birgei,4.0095e-08,handling.time,56087.2489340746,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Diaptomus leptopus,1.71891e-07,handling.time,66705.8837214312,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,4.0095e-08,handling.time,235463.507878499,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Holopedium gibberum,1.71891e-07,handling.time,159539.075470716,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Chaoborus americanus,8.16465e-05,Moina hutchinsoni,4.0095e-08,handling.time,118023.129180282,s,Vinyard_and_Menger.1980,Li_et_al.2018
+freshwater,Gymnocephalus cernuus,0.0138,Chaoborus obscuripes,6.361e-06,capture.probability,0.874,dimensionless,Bergman.1987,NA
+freshwater,Gymnocephalus cernuus,0.0138,Chaoborus obscuripes,6.361e-06,capture.probability,0.9,dimensionless,Bergman.1987,NA
+freshwater,Gymnocephalus cernuus,0.0138,Chaoborus obscuripes,6.361e-06,capture.probability,0.86,dimensionless,Bergman.1987,NA
+freshwater,Gymnocephalus cernuus,0.0138,Chaoborus obscuripes,6.361e-06,capture.probability,0.922,dimensionless,Bergman.1987,NA
+freshwater,Perca fluviatilis,0.0169,Chaoborus obscuripes,6.361e-06,capture.probability,1,dimensionless,Bergman.1987,NA
+freshwater,Perca fluviatilis,0.0169,Chaoborus obscuripes,6.361e-06,capture.probability,1,dimensionless,Bergman.1987,NA
+freshwater,Perca fluviatilis,0.0169,Chaoborus obscuripes,6.361e-06,capture.probability,0.993,dimensionless,Bergman.1987,NA
+freshwater,Perca fluviatilis,0.0169,Chaoborus obscuripes,6.361e-06,capture.probability,0.996,dimensionless,Bergman.1987,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.52816788375701e-05,capture.probability,0.926808,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.52816788375701e-05,capture.probability,0.808402,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,4.5491227868764e-06,capture.probability,0.883908,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,4.5491227868764e-06,capture.probability,0.793868,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.52816788375701e-05,capture.probability,0.893169,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.52816788375701e-05,capture.probability,0.930863,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,4.71787567752487e-06,capture.probability,0.95707,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,4.71787567752487e-06,capture.probability,0.963527,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,4.49941243206862e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,4.49941243206862e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,4.49941243206862e-06,capture.probability,0.889,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,4.49941243206862e-06,capture.probability,0.871,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,1.77636722758639e-06,capture.probability,0.5,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,1.77636722758639e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,2.78477642590755e-06,capture.probability,0.938,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,2.78477642590755e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,9.210853443847e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,9.210853443847e-06,capture.probability,0.9,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.13736247673712e-05,capture.probability,0.857,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.13736247673712e-05,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.38849442335763e-05,capture.probability,0.818,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,1.38849442335763e-05,capture.probability,0.929,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,3.28793205456149e-05,capture.probability,0.938,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Clupea harengus,3.28793205456149e-05,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,4.14610293059657e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Gadus morhua,0.0181052437,Pleuronectes platessa,4.14610293059657e-06,capture.probability,1,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.13736247673712e-05,capture.probability,0.917,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.13736247673712e-05,capture.probability,0.857,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.38849442335763e-05,capture.probability,0.929,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,1.38849442335763e-05,capture.probability,0.611,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,3.28793205456149e-05,capture.probability,0.833,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Clupea harengus,3.28793205456149e-05,capture.probability,0.867,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,2.78477642590755e-06,capture.probability,0.929,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,2.78477642590755e-06,capture.probability,0.767,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,5.92540803684743e-06,capture.probability,0.9,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0131170572,Pleuronectes platessa,5.92540803684743e-06,capture.probability,0.5,dimensionless,Fuiman_and_Batty.1994,NA
+marine,Clupea harengus,0.0031281905,Clupea harengus,4.86556558032983e-06,capture.probability,0.668992,dimensionless,Fuiman.1991,NA
+marine,Clupea harengus,0.0031281905,Clupea harengus,4.86556558032983e-06,capture.probability,0.277497,dimensionless,Fuiman.1991,NA
+marine,Clupea harengus,0.0063082748,Clupea harengus,4.86556558032983e-06,capture.probability,0.383723,dimensionless,Fuiman.1991,NA
+marine,Clupea harengus,0.0063082748,Clupea harengus,4.86556558032983e-06,capture.probability,0.771735,dimensionless,Fuiman.1991,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0.079,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0.013,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0.44,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0.11,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Rutilus rutilus,0.0109,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+freshwater,Perca fluviatilis,0.0291,Chaoborus obscuripes,3.9e-06,capture.probability,0,dimensionless,Persson.1986,NA
+marine,Crangon septemspinosa,0.0015122416,Pseudopleuronectes americanus,1.3577859966866e-05,capture.probability,0.0887,dimensionless,Taylor_and_Collie.2003,NA
+marine,Crangon septemspinosa,0.0015122416,Pseudopleuronectes americanus,1.3577859966866e-05,capture.probability,0.2149,dimensionless,Taylor_and_Collie.2003,NA
+marine,Crangon septemspinosa,0.0015122416,Pseudopleuronectes americanus,1.3577859966866e-05,capture.probability,0.1347,dimensionless,Taylor_and_Collie.2003,NA
+marine,Crangon septemspinosa,0.0015122416,Pseudopleuronectes americanus,1.3577859966866e-05,capture.probability,0.2189,dimensionless,Taylor_and_Collie.2003,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.499,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.6,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.716,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.667,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.754,dimensionless,Yocom_and_Rdsall.1974,NA
+freshwater,Perca flavescens,0.0124,Coregonus clupeaformis,0.00014,capture.probability,0.907,dimensionless,Yocom_and_Rdsall.1974,NA

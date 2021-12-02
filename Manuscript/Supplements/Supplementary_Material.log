@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2021.2.5)  23 JUL 2021 02:47
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2021.2.5)  17 NOV 2021 20:46
  restricted system commands enabled.
 **Supplementary_Material.tex
 (./Supplementary_Material.tex
@@ -732,60 +732,60 @@ LaTeX Warning: Unused global option(s):
 (./Supplementary_Material.aux)
 \openout1 = Supplementary_Material.aux
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 14.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 15.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 
-14.
+15.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 14
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 15
 .
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 15.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 1
-4.
+5.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 15.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 
-14.
+15.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 15.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line
- 14.
+ 15.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
@@ -802,15 +802,15 @@ ii
 \makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks43
 )
-Package crop Info: requested driver: `' on input line 14.
-Package crop Info: detected driver: `luatex' on input line 14.
-Package crop Info: using `luatex' graphics driver on input line 14.
+Package crop Info: requested driver: `' on input line 15.
+Package crop Info: detected driver: `luatex' on input line 15.
+Package crop Info: using `luatex' graphics driver on input line 15.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 15.
  (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -823,14 +823,14 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count318
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (./Supplementary_Material.out) (./Supplementary_Material.out)
 \@outlinefile=\write3
 
 \openout3 = Supplementary_Material.out
-LaTeX Info: Redefining \microtypecontext on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2),
 (microtype)             factor: 1500.
@@ -838,7 +838,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 14.
+LaTeX Info: Redefining \showhyphens on input line 15.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -848,7 +848,7 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \c@mv@tabular=\count319
 \c@mv@boldtabular=\count320
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 22.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 23.
 
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/t1phv.fd
@@ -866,45 +866,45 @@ Package epstopdf Info: Source file: <./logo1.eps>
 (epstopdf)                    size: 27688 bytes
 (epstopdf)             Command: <epstopdf --outfile=./logo1-eps-converted-to.pdf
  ./logo1.eps>
-(epstopdf)             \includegraphics on input line 22.
+(epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
-<./logo1-eps-converted-to.pdf, id=47, 284.06125pt x 80.3pt>
+<./logo1-eps-converted-to.pdf, id=87, 284.06125pt x 80.3pt>
 File: ./logo1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./logo1-eps-converted-to.pdf>
-Package luatex.def Info: ./logo1-eps-converted-to.pdf  used on input line 22.
+Package luatex.def Info: ./logo1-eps-converted-to.pdf  used on input line 23.
 (luatex.def)             Requested size: 144.0pt x 40.70862pt.
 
-Underfull \hbox (badness 10000) detected at line 22
+Underfull \hbox (badness 10000) detected at line 23
 []
  []
 
 
-Overfull \hbox (8.53581pt too wide) in paragraph at lines 22--22
+Overfull \hbox (8.53581pt too wide) in paragraph at lines 23--23
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <20> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.0pt on input line 23.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.0pt on input line 24.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 13.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 13.0pt on input line 29.
+(Font)              scaled to size 14.0pt on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 13.0pt on input line 28.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 13.0pt on input line 30.
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line
- 42.
+ 43.
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 42.
+(Font)              scaled to size 12.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 42.
+(Font)              scaled to size 8.8pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 42.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+(Font)              scaled to size 6.6pt on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -912,7 +912,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -921,19 +921,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 4
-2.
+3.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 4
-2.
+3.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 4
-2.
+3.
 
 (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
@@ -948,18 +948,18 @@ Missing character: There is no ⁠ (U+2060) in font ntx-Regular-tlf-t1!
 Missing character: There is no ’ (U+2019) in font ntx-Regular-tlf-t1!
 <./logo1-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 54.
+(Font)              scaled to size 12.0pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 60.
+(Font)              scaled to size 8.8pt on input line 61.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 61.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 91.
+(Font)              scaled to size 8.0pt on input line 92.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 91.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 92.
 
 Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 
@@ -976,6 +976,24 @@ Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 [3
 Missing character: There is no ⁠ (U+2060) in font ntx-Regular-tlf-t1!
 ]
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 1
+61.
+ (C:/Users/sebca/AppData/Local/Programs/MiKTeX/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 161.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ntxtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (22.05498pt too wide) in paragraph at lines 197--197
+[]\T1/ntxtt/m/n/12 ## lm(formula = (log10(Predicted)-log10(Observed)) ~ log10(Pr
+edicted) * Log10(Size),[] 
+ []
+
+
 Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 
 
@@ -983,43 +1001,75 @@ Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 Missing character: There is no ’ (U+2019) in font ntx-Regular-tlf-t1!
 Missing character: There is no ⁠ (U+2060) in font ntx-Regular-tlf-t1!
 ]
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 147.
+Overfull \hbox (22.05498pt too wide) in paragraph at lines 242--242
+[]\T1/ntxtt/m/n/12 ## lm(formula = (log10(Predicted)-log10(Observed)) ~ log10(Pr
+edicted) * Log10(Size),[] 
+ []
+
 
 Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 
 
-[5
+[5]
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[6]
+Overfull \hbox (28.35497pt too wide) in paragraph at lines 367--367
+[]\T1/ntxtt/m/n/12 ## lm(formula =  (log10(Predicted)-log10(Observed)) ~ log10(P
+redicted) * Log10(Size),[] 
+ []
+
+
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[7]
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[8]
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[9]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.0pt on input line 426.
+
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[10
 
 ]
-<Figure_Forces.pdf, id=109, 722.7pt x 542.025pt>
+<Figure_Forces.pdf, id=181, 722.7pt x 542.025pt>
 File: Figure_Forces.pdf Graphic file (type pdf)
 <use Figure_Forces.pdf>
-Package luatex.def Info: Figure_Forces.pdf  used on input line 178.
+Package luatex.def Info: Figure_Forces.pdf  used on input line 457.
 (luatex.def)             Requested size: 512.1496pt x 384.11263pt.
 
-Overfull \hbox (8.1496pt too wide) in paragraph at lines 178--179
+Overfull \hbox (8.1496pt too wide) in paragraph at lines 457--458
  [] 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 179.
+(Font)              scaled to size 12.0pt on input line 458.
 
 Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 
 
-[6
+[11
 
 Missing character: There is no ’ (U+2019) in font ntx-Regular-tlf-t1!
 Missing character: There is no ’ (U+2019) in font ntx-Regular-tlf-t1!
 <./Figure_Forces.pdf>]
-<Attack_Rate_Map2.pdf, id=202, 868.3781pt x 507.0281pt>
+<Attack_Rate_Map2.pdf, id=275, 868.3781pt x 507.0281pt>
 File: Attack_Rate_Map2.pdf Graphic file (type pdf)
 <use Attack_Rate_Map2.pdf>
-Package luatex.def Info: Attack_Rate_Map2.pdf  used on input line 187.
+Package luatex.def Info: Attack_Rate_Map2.pdf  used on input line 466.
 (luatex.def)             Requested size: 512.1496pt x 299.02794pt.
 
-Overfull \hbox (8.1496pt too wide) in paragraph at lines 187--188
+Overfull \hbox (8.1496pt too wide) in paragraph at lines 466--467
  [] 
  []
 
@@ -1027,45 +1077,62 @@ Overfull \hbox (8.1496pt too wide) in paragraph at lines 187--188
 Overfull \vbox (3.49998pt too high) has occurred while \output is active []
 
 
-[7
+[12
 
-<./Attack_Rate_Map2.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
+<./Attack_Rate_Map2.pdf>] (./Supplementary_Material.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[13
+
+])
+Overfull \vbox (3.49998pt too high) has occurred while \output is active []
+
+
+[14
+Missing character: There is no – (U+2013) in font ntx-Regular-tlf-t1!
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
  (./Supplementary_Material.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
 Package rerunfilecheck Info: File `Supplementary_Material.out' has not changed.
-(rerunfilecheck)             Checksum: E049AEBE9EA3F2C6E6FD82189B35420F;1868.
+(rerunfilecheck)             Checksum: 5FE33D22398B466B6E3E3126AA7DBBC1;4824.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17439 strings out of 481289
+ 17719 strings out of 481289
  125171,662416 words of node,token memory allocated
- 650 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 6 kern, 1 glyph, 38 attribute, 57 glue_spec
-, 38 attribute_list, 2 write nodes
-   avail lists: 2:594,3:115,4:45,5:231,6:20,7:3238,8:53,9:263,10:11,11:3
- 33796 multiletter control sequences out of 65536+200000
- 122 fonts using 10217627 bytes
- 52i,12n,58p,1089b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.e
-nc}{C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-t
-lf.enc}{C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
+ 700 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 12 kern, 1 glyph, 43 attribute, 57 glue_spe
+c, 43 attribute_list, 2 write nodes
+   avail lists: 2:684,3:808,4:61,5:298,6:46,7:4240,8:54,9:263,10:15,11:52
+ 33971 multiletter control sequences out of 65536+200000
+ 123 fonts using 10300107 bytes
+ 52i,12n,58p,1089b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Us
+ers/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:
+/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc
 }<C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.
 pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTX
-MI7.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/t
-xexs.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/
-txmiaX.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newt
-x/txsys.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
-ic/uhvb8a.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helv
-etic/uhvbo8a.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/newtx/ztmb.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/newtx/ztmr.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/newtx/ztmri.pfb>
-Output written on Supplementary_Material.pdf (7 pages, 831120 bytes).
+MI7.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts
+/t1xtt.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/newt
+x/txexs.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/new
+tx/txmiaX.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/public/n
+ewtx/txsys.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
+vetic/uhvb8a.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/urw/h
+elvetic/uhvbo8a.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/helvetic/uhvr8a.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/newtx/ztmb.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/newtx/ztmr.pfb><C:/Users/sebca/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/newtx/ztmri.pfb>
+Output written on Supplementary_Material.pdf (14 pages, 890115 bytes).
 
-PDF statistics: 2426 PDF objects out of 2487 (max. 8388607)
- 37 named destinations out of 1000 (max. 131072)
- 89 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 2552 PDF objects out of 2984 (max. 8388607)
+ 94 named destinations out of 1000 (max. 131072)
+ 169 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,0 +1,259 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+
+\bibitem[{Anderson et~al.(1978)Anderson, Whitfield, Dobson, and
+  Keymer}]{Anderson1978}
+Anderson, R.~M., Whitfield, P.~J., Dobson, A.~P., and Keymer, A.~E. (1978).
+\newblock {Concomitant Predation and Infection Processes: An Experimental
+  Study}.
+\newblock \emph{J. Anim. Ecol.} 47, 891.
+\newblock \doi{10.2307/3677}
+\bibAnnoteFile{Anderson1978}
+
+\bibitem[{Bailey(1989)}]{Bailey1989}
+Bailey, P.~C. (1989).
+\newblock {The effect of water temperature on the functional response of the
+  water stick insect Ranatra dispar (Heteroptera: Nepidae)}.
+\newblock \emph{Aust. J. Ecol.} 14, 381--386.
+\newblock \doi{10.1111/J.1442-9993.1989.TB01448.X}
+\bibAnnoteFile{Bailey1989}
+
+\bibitem[{Barnhisel and Kerfoot(2004)}]{Barnhisel2004}
+Barnhisel, D.~R. and Kerfoot, W.~C. (2004).
+\newblock {Fitting into Food Webs: Behavioral and Functional Response of Young
+  Lake Trout (Salvelinus namaycush) to an Introduced Prey, the Spiny Cladoceran
+  (Bythotrephes cederstroemi)}.
+\newblock \emph{J. Great Lakes Res.} 30, 300--314.
+\newblock \doi{10.1016/S0380-1330(04)70393-7}
+\bibAnnoteFile{Barnhisel2004}
+
+\bibitem[{Bergman(1987)}]{Bergman1987}
+Bergman, E. (1987).
+\newblock {Temperature-dependent differences in foraging ability of two
+  percids, Perca fluviatilis and Gymnocephalus cernuus}.
+\newblock \emph{Environ. Biol. Fishes} 19, 45--53.
+\newblock \doi{10.1007/BF00002736}
+\bibAnnoteFile{Bergman1987}
+
+\bibitem[{Bergstr{\"{o}}m and Englund(2004)}]{Bergstrom2004}
+Bergstr{\"{o}}m, U. and Englund, G. (2004).
+\newblock {Spatial scale, heterogeneity and functional responses}.
+\newblock \emph{J. Anim. Ecol.} 73, 487--493.
+\newblock \doi{10.1111/J.0021-8790.2004.00823.X}
+\bibAnnoteFile{Bergstrom2004}
+
+\bibitem[{Buckel and Stoner(2000)}]{Buckel2000}
+Buckel, J.~A. and Stoner, A.~W. (2000).
+\newblock {Functional response and switching behavior of young-of-the-year
+  piscivorous bluefish}.
+\newblock \emph{J. Exp. Mar. Biol. Ecol.} 245, 25--41.
+\newblock \doi{10.1016/S0022-0981(99)00155-0}
+\bibAnnoteFile{Buckel2000}
+
+\bibitem[{Butler and Burns(1993)}]{Butler1993}
+Butler, M.~I. and Burns, C.~W. (1993).
+\newblock {Water Mite Predation on Planktonic Cladocera: Parallel Curve
+  Analysis of Functional Responses}.
+\newblock \emph{Oikos} 66, 5.
+\newblock \doi{10.2307/3545189}
+\bibAnnoteFile{Butler1993}
+
+\bibitem[{Colton(1987)}]{Colton1987}
+Colton, T.~F. (1987).
+\newblock {Extending Functional Response Models to Include a Second Prey Type:
+  An Experimental Test}.
+\newblock \emph{Ecology} 68, 900--912.
+\newblock \doi{10.2307/1938361}
+\bibAnnoteFile{Colton1987}
+
+\bibitem[{Cothran and Thorp(1985)}]{Cothran1985}
+Cothran, M.~L. and Thorp, J.~H. (1985).
+\newblock {Tests of Preference and Switching Behavior of the Dragonfly
+  Celithemis fasciata}.
+\newblock \emph{Oikos} 44, 350.
+\newblock \doi{10.2307/3544710}
+\bibAnnoteFile{Cothran1985}
+
+\bibitem[{DeBlois and Leggett(1991)}]{DeBlois1991}
+DeBlois, E.~M. and Leggett, W.~C. (1991).
+\newblock {Functional response and potential impact of invertebrate predators
+  on benthic fish eggs: Analysis of the Calliopius
+  laeviusculus-capelin(Mallotus villosus) predator-prey system.}
+\newblock \emph{Mar. Ecol. Prog. Ser.} 69, 205--216
+\bibAnnoteFile{DeBlois1991}
+
+\bibitem[{Fox and Murdoch(1978)}]{Fox1978}
+Fox, L.~R. and Murdoch, W.~W. (1978).
+\newblock {Effects of Feeding History on Short-Term and Long-Term Functional
+  Responses in Notonecta hoffmanni}.
+\newblock \emph{J. Anim. Ecol.} 47, 945.
+\newblock \doi{10.2307/3680}
+\bibAnnoteFile{Fox1978}
+
+\bibitem[{Fuiman(1991)}]{Fuiman1991}
+Fuiman, L.~A. (1991).
+\newblock {Influence of temperature on evasive responses of Atlantic herring
+  larvae attacked by yearling herring, Clupea harengus L.}
+\newblock \emph{J. Fish Biol.} 39, 93--102.
+\newblock \doi{10.1111/J.1095-8649.1991.TB04344.X}
+\bibAnnoteFile{Fuiman1991}
+
+\bibitem[{Fuiman and Batty(1994)}]{Fuiman1994}
+Fuiman, L.~A. and Batty, R.~S. (1994).
+\newblock {Susceptibility of Atlantic herring and plaice larvae to predation by
+  juvenile cod and herring at two constant temperatures}.
+\newblock \emph{J. Fish Biol.} 44, 23--34.
+\newblock \doi{10.1111/J.1095-8649.1994.TB01582.X}
+\bibAnnoteFile{Fuiman1994}
+
+\bibitem[{Galarowicz and Wahl(2005)}]{Galarowicz2005}
+Galarowicz, T.~L. and Wahl, D.~H. (2005).
+\newblock {Foraging by a young-of-the-year piscivore: the role of predator
+  size, prey type, and density}.
+\newblock \emph{Can. J. Fish. Aquat. Sci.} 62, 2330--2342.
+\newblock \doi{10.1139/F05-148}
+\bibAnnoteFile{Galarowicz2005}
+
+\bibitem[{Gresens et~al.(1982)Gresens, Cothran, and Thorp}]{Gresens1982}
+Gresens, S.~E., Cothran, M.~L., and Thorp, J.~H. (1982).
+\newblock {The influence of temperature on the functional response of the
+  dragonfly Celithemis fasciata (Odonata: Libellulidae)}.
+\newblock \emph{Oecologia} 53, 281--284.
+\newblock \doi{10.1007/BF00388999}
+\bibAnnoteFile{Gresens1982}
+
+\bibitem[{Hirt et~al.(2017)Hirt, Jetz, Rall, and Brose}]{Hirt2017}
+Hirt, M.~R., Jetz, W., Rall, B.~C., and Brose, U. (2017).
+\newblock {A general scaling law reveals why the largest animals are not the
+  fastest}.
+\newblock \emph{Nature Ecol. Evol.} 1, 1116--1122.
+\newblock \doi{10.1038/s41559-017-0241-4}
+\bibAnnoteFile{Hirt2017}
+
+\bibitem[{Houde and Schekter(1980)}]{Houde1980}
+Houde, E.~D. and Schekter, R.~C. (1980).
+\newblock {Feeding by marine fish larvae: developmental and functional
+  responses}.
+\newblock \emph{Environ.l Biol. Fish.} 5, 315--334.
+\newblock \doi{10.1007/BF00005186}
+\bibAnnoteFile{Houde1980}
+
+\bibitem[{Koski and Johnson(2002)}]{Koski2002}
+Koski, M.~L. and Johnson, B.~M. (2002).
+\newblock {Functional response of kokanee salmon (Oncorhynchus nerka) to
+  Daphnia at different light levels}.
+\newblock \emph{Can. J. Fish. Aquat. Sci.} 59, 707--716.
+\newblock \doi{10.1139/F02-045}
+\bibAnnoteFile{Koski2002}
+
+\bibitem[{Li et~al.(2018)Li, Rall, and Kalinkat}]{Li2018}
+Li, Y., Rall, B.~C., and Kalinkat, G. (2018).
+\newblock {Experimental duration and predator satiation levels systematically
+  affect functional response parameters}.
+\newblock \emph{Oikos} 127, 590--598.
+\newblock \doi{10.1111/oik.04479}
+\bibAnnoteFile{Li2018}
+
+\bibitem[{Ljunggren and Sandstr{\"{o}}m(2007)}]{Ljunggren2007}
+Ljunggren, L. and Sandstr{\"{o}}m, A. (2007).
+\newblock {Influence of visual conditions on foraging and growth of juvenile
+  fishes with dissimilar sensory physiology}.
+\newblock \emph{J. Fish Biol.} 70, 1319--1334.
+\newblock \doi{10.1111/J.1095-8649.2007.01412.X}
+\bibAnnoteFile{Ljunggren2007}
+
+\bibitem[{Mckee et~al.(1997)Mckee, Wrona, Scrimgeour, and Culp}]{Mckee1997}
+Mckee, M.~H., Wrona, F.~J., Scrimgeour, G.~J., and Culp, J.~M. (1997).
+\newblock {Importance of consumptive and non-consumptive prey mortality in a
+  coupled predator–prey system}.
+\newblock \emph{Freshwater Biol.} 38, 193--201.
+\newblock \doi{10.1046/J.1365-2427.1997.00205.X}
+\bibAnnoteFile{Mckee1997}
+
+\bibitem[{Miller et~al.(1992)Miller, Crowder, Rice, and Binkowski}]{Miller1992}
+Miller, T.~J., Crowder, L.~B., Rice, J.~A., and Binkowski, F.~P. (1992).
+\newblock {Body Size and the Ontogeny of the Functional Response in Fishes}.
+\newblock \emph{Can. J. Fish. Aquat. Sci.} 49, 805--812.
+\newblock \doi{10.1139/F92-091}
+\bibAnnoteFile{Miller1992}
+
+\bibitem[{Moss and Beauchamp(2007)}]{Moss2007}
+Moss, J.~H. and Beauchamp, D.~A. (2007).
+\newblock {Functional response of juvenile pink and chum salmon: effects of
+  consumer size and two types of zooplankton prey}.
+\newblock \emph{J. Fish Biol.} 70, 610--622.
+\newblock \doi{10.1111/J.1095-8649.2007.01340.X}
+\bibAnnoteFile{Moss2007}
+
+\bibitem[{Persson(1986)}]{Persson1986}
+Persson, L. (1986).
+\newblock {Temperature-Induced Shift in Foraging Ability in Two Fish Species,
+  Roach (Rutilus rutilus) and Perch (Perca fluviatilis): Implications for
+  Coexistence between Poikilotherms}.
+\newblock \emph{J. Anim. Ecol.} 55, 829--839.
+\newblock \doi{10.2307/4419}
+\bibAnnoteFile{Persson1986}
+
+\bibitem[{Spitze(1985)}]{Spitze1985}
+Spitze, K. (1985).
+\newblock {Functional Response of an Ambush Predator: Chaoborus americanus
+  Predation on Daphnia pulex}.
+\newblock \emph{Ecology} 66, 938--949.
+\newblock \doi{10.2307/1940556}
+\bibAnnoteFile{Spitze1985}
+
+\bibitem[{Taylor and Collie(2003)}]{Taylor2003}
+Taylor, D.~L. and Collie, J.~S. (2003).
+\newblock {Effect of temperature on the functional response and foraging
+  behavior of the sand shrimp Crangon septemspinosa preying on juvenile winter
+  flounder Pseudopleuronectes americanus}.
+\newblock \emph{Mar. Ecol. Prog. Ser.} 263, 217--234.
+\newblock \doi{10.3354/MEPS263217}
+\bibAnnoteFile{Taylor2003}
+
+\bibitem[{Thompson(1975)}]{Thompson1975}
+Thompson, D.~J. (1975).
+\newblock {Towards a Predator-Prey Model Incorporating Age Structure: The
+  Effects of Predator and Prey Size on the Predation of Daphnia magna by
+  Ischnura elegans}.
+\newblock \emph{J. Anim. Ecol.} 44, 907.
+\newblock \doi{10.2307/3727}
+\bibAnnoteFile{Thompson1975}
+
+\bibitem[{Thompson(1978)}]{Thompson1978}
+Thompson, D.~J. (1978).
+\newblock {Towards a Realistic Predator-Prey Model: The Effect of Temperature
+  on the Functional Response and Life History of Larvae of the Damselfly,
+  Ischnura elegans}.
+\newblock \emph{J. Anim. Ecol.} 47, 757.
+\newblock \doi{10.2307/3669}
+\bibAnnoteFile{Thompson1978}
+
+\bibitem[{Vinyard and Menger(1980)}]{Vinyard1980}
+Vinyard, G.~L. and Menger, R.~A. (1980).
+\newblock {Chaoborus americanus predation on various zooplankters; Functional
+  response and behavioral observations}.
+\newblock \emph{Oecologia} 45, 90--93.
+\newblock \doi{10.1007/BF00346712}
+\bibAnnoteFile{Vinyard1980}
+
+\bibitem[{Yocom and Edsall(1974)}]{Yocom1974}
+Yocom, T.~G. and Edsall, T.~A. (1974).
+\newblock {Effect of Acclimation Temperature and Heat Shock on Vulnerability of
+  Fry of Lake Whitefish (Coregonus clupeaformis) to Predation}.
+\newblock \emph{J. Fish Res. Board Can.} 31, 1503--1506.
+\newblock \doi{10.1139/F74-180}
+\bibAnnoteFile{Yocom1974}
+
+\end{thebibliography}
